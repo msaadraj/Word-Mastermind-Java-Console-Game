@@ -86,7 +86,7 @@ java Main
 
   <h2>📸 Screenshots / Demo:</h2>
   <p>Below is a preview of the game in action:</p>
-  <img src="" alt="Game Screenshot" width="600" />
+  <img src="https://github.com/msaadraj/Word-Mastermind-Java-Console-Game/blob/main/screenshot.PNG" alt="Game Screenshot" width="600" />
 
   
 
