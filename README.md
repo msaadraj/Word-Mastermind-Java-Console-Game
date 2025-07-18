@@ -69,6 +69,25 @@
   <p>
     This project was built to strengthen OOP design, practice file handling, and create an engaging, logic-based Java game experience. It also showcases modular coding and interactive command-line game design.
   </p>
+
+ <h2>🛠️ Installation Requirements:</h2>
+  <ul>
+    <li>Java JDK 8 or above installed</li>
+    <li>Any text editor or IDE (e.g., IntelliJ, VS Code, Eclipse)</li>
+    <li>Basic terminal/command-line usage</li>
+  </ul>
+
+  <h2>💻 Usage Instructions:</h2>
+  <p>To compile and run the game from your terminal:</p>
+  <pre><code>
+javac Main.java
+java Main
+  </code></pre>
+
+  <h2>📸 Screenshots / Demo:</h2>
+  <p>Below is a preview of the game in action:</p>
+  <img src="" alt="Game Screenshot" width="600" />
+
   
 
 <h3 align="left">Connect with me:</h3>
